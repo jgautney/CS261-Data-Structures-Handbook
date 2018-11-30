@@ -6,7 +6,7 @@ A Dictionary is a data structure that uses a Key:Value system to store data in a
 
 In memory, a Dictionary looks like this:
 
-![Image of dictionary in Memory](images/dicitonary.png)
+![Image of dictionary in Memory](images/dictionary.png)
 
 In a dictionary, when a value is added it is entered with a unique key.  When the key is called it is used to locate the value in O(1) time.
 
