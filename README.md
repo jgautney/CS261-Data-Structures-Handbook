@@ -10,6 +10,7 @@ they allow us to solve various problems when it comes to holding data that is ne
 * [Array](array.md)
 * [Tuple](tuple.md)
 * [Linked List](linked-list.md)
+* [Stack](stack.md)
 
 
 (c) Josh Gautney. All rights reserved.
