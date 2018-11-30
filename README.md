@@ -12,6 +12,7 @@ they allow us to solve various problems when it comes to holding data that is ne
 * [Linked List](linked-list.md)
 * [Stack](stack.md)
 * [Queue](queue.md)
+* [Deque](deque.md)
 
 
 (c) Josh Gautney. All rights reserved.
