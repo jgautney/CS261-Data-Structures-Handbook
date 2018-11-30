@@ -1,19 +1,14 @@
 # My Data Structures Handbook
 
-by YOUR NAME
+by Josh Gautney
 
-This is a summary of the data structures I have mastered. (More explanation here.
-Why is this important? What does this prove to potential employers? How does this
-differentiate you from someone who does not know data structures? Why should an
-employer care?).
+This is a summary of the data structures I have mastered to this point.  Data structures are important because
+they allow us to solve various problems when it comes to holding data that is needed by our programs.  Knowing the ins and outs of each data structure equips us with the knowledge of what situation is best for certain structures as well as the advantages and disadvantages of each.
 
 ## The List
 
 * [Array](array.md)
-* List, Linked List
-* Set
-* Tuple
-* Dictionary
-* TODO (more structures listed here)
+* [Tuple](tuple.md)
 
-(c) YOUR NAME. All rights reserved.
+
+(c) Josh Gautney. All rights reserved.
