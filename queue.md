@@ -6,7 +6,7 @@ A Queue is similair to a stack except it is First In First Out (FIFO). Meaning t
 
 In memory, a queue looks like this:
 
-![Image of queue in Memory](images/Stack.png)
+![Image of queue in Memory](images/Queue.png)
 
 A Queue is a linear data structure that follows FIFO.  The first item added is the first item removed
 
