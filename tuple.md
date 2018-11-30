@@ -12,7 +12,7 @@ The tuple is contiguous in memory like an array, meaning the data is phyiscally 
 
 # Operations
 
-An array supports the following operations:
+A tuple supports the following operations:
 
 * Indexing: searches a tuple to see if a value or string is present in the tuple and returns the index if it is.  This is O(1) because the tuple is immutable after creation.
 * Slicing: Allows accesing a range of of items in a tuple. This is also O(1) for the same reason as indexing.
