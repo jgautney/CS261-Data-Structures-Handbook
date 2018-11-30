@@ -11,6 +11,7 @@ they allow us to solve various problems when it comes to holding data that is ne
 * [Tuple](tuple.md)
 * [Linked List](linked-list.md)
 * [Stack](stack.md)
+* [Queue](queue.md)
 
 
 (c) Josh Gautney. All rights reserved.
