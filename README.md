@@ -14,5 +14,9 @@ they allow us to solve various problems when it comes to holding data that is ne
 * [Queue](queue.md)
 * [Deque](deque.md)
 
+## Dictionary
+
+* [Dictionary](dictionary.md)
+
 
 (c) Josh Gautney. All rights reserved.
